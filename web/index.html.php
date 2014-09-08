@@ -11,7 +11,7 @@
             <h2 class="post__header__headline"></h2>
         </header>
         <footer class="post__footer">
-            Edited: <time datetime="2014-08-11T02:56:55Z+02:00">am 11. August 2014 um 02:56 Uhr</time>
+            Erstellt am <time datetime="2014-08-11T02:56:55Z+02:00">11. August 2014 um 02:56 Uhr</time>
         </footer>
     </article>
 
