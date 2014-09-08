@@ -8,10 +8,10 @@
 <main class="page-main" role="main">
     <article class="post">
         <header class="post__header">
-            <h2></h2>
+            <h2 class="post__header__headline"></h2>
         </header>
         <footer class="post__footer">
-
+            
         </footer>
     </article>
 
